@@ -1,4 +1,4 @@
-## Olá, tudo bem? Eu sou o Rodrigo Damasceno
+## Olá, tudo bem? Eu sou o Rodrigo 
  <div>
   <a href="https://github.com/rdamascenoferreira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rdamascenoferreira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
